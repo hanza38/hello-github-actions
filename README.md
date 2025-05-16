@@ -8,7 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Welcome
 
-Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
+Automation is key for streamlining your work processes, and [GitHub Actions](https://dev-datetime.pantheonsite.io/2025/05/13/quality-se-content/ ) is the best way to supercharge your workflow.
 
 - **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
 - **What you'll learn**: How to create workflow files, trigger workflows, and find workflow logs.
